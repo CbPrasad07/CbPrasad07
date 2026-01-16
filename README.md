@@ -1,8 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on: Scalable AI solutions like an Environmental Impact Analyzer using NLP, React, and AWS.<br><br>👯 I’m looking to collaborate on: Cloud-Native AI architectures and open-source Generative AI projects.<br><br>🤝 I’m looking for help with: Advanced LLM optimization and fine-tuning strategies for autonomous agents.<br><br>🌱 I’m currently learning: Autonomous AI Agent frameworks (like AgentGPT) and advanced MLOps deployment patterns.<br><br>💬 Ask me about: My research on Stock Prediction Models published in Springer Nature or how I reduced deployment time by 30% using cloud automation.<br><br>⚡ Fun fact: I balance coding with serving as the NUS England Representative, advocating for students across the UK.
+🔭 I’m currently working on: Scalable AI solutions like an Environmental Impact Analyzer using NLP, React, and AWS.<br><br>👯 I’m looking to collaborate on: Cloud-Native AI architectures and open-source Generative AI projects.<br><br>🤝 I’m looking for help with: Advanced LLM optimization and fine-tuning strategies for autonomous agents.<br><br>🌱 I’m currently learning: Autonomous AI Agent frameworks (like AgentGPT) and advanced MLOps deployment patterns.<br><br>💬 Ask me about: My research on Stock Prediction Models published in Springer Nature or how I reduced deployment time by 30% using cloud automation.<br><br>⚡ Fun fact: I balance coding with serving as the **NUS England Representative**, advocating for students across the UK.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/562598650078035989) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cbprasad07/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cb123avengers) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cbofficial07@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/562598650078035989) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cbprasad07/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cb123avengers) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cbofficial07@gmail.com)
+
+# 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Environmental Impact Analyzer** | A full-stack AI solution quantifying product sustainability. **Reduced data processing latency by 20%** using optimized NLP pipelines. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Agro-Climatic Crop Recommender** | ML system for Indian farmers achieving **99% accuracy**. Uses Random Forest & Geospatial data for precision agriculture. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Stock Price Prediction Model** | Research-backed RNN/LSTM model published in **Springer Nature**. Outperformed traditional models in volatility handling. | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Research](https://img.shields.io/badge/Springer_Nature-000000?style=flat-square&logo=springer&logoColor=white) |
 
 # 💻 Tech Stack:
 
@@ -21,13 +29,6 @@
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-# 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Environmental Impact Analyzer** | A full-stack AI solution quantifying product sustainability. **Reduced data processing latency by 20%** using optimized NLP pipelines. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Agro-Climatic Crop Recommender** | ML system for Indian farmers achieving **99% accuracy**. Uses Random Forest & Geospatial data for precision agriculture. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Stock Price Prediction Model** | Research-backed RNN/LSTM model published in **Springer Nature**. Outperformed traditional models in volatility handling. | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Research](https://img.shields.io/badge/Springer_Nature-000000?style=flat-square&logo=springer&logoColor=white) |
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
